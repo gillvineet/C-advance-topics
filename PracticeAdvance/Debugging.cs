@@ -20,7 +20,7 @@ namespace PracticeAdvance
             string name = "HI i am vineet gill";
             string[] arr = name.Split(' ');
             Console.WriteLine(c);
-            Console.WriteLine("we are making changes i repo");
+            Console.WriteLine("heelo changes made");
 
         }
     }
